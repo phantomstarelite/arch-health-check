@@ -75,9 +75,6 @@ Designed with **clean architecture**, **industry-standard UI**, and **extensibil
 > Example:
 
 ```text
-screenshots/
- ├── gui.png
- ├── tui.png
 ```
 
 ---
