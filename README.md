@@ -216,8 +216,8 @@ Feel free to use, modify, and distribute.
 
 ## 👤 Author
 
-**Pratik**
-Arch Linux | Python | System Tools
+**Pratik**   
+Arch Linux | Python | System Tools    
 Built as a learning + showcase project with real-world architecture.
 
 ---
